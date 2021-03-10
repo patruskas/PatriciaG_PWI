@@ -1,28 +1,11 @@
-# PatriciaG_PWI
+**PATRÍCIA GAISAUSKAS**
 
-*<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title> Meu Primeiro Código</title>
-
-</head>
-<body>
-
-    <H2 style="color: #5ac73c;">Patrícia Gaisauskas</H2>
-    <P>
-        - Aluna do curso de Desenvolvimento de Sistemas da ETEC Camargo Aranha; <br>
-        - Servidora pública federal; <br>
-        - Mãe do Gabriel;<br> <br>
-        <b>Meus objetivos:</b><br>
-        - Criar um software;<br>
-        - Viajar pelo mundo;<br>
-        - Aprender a investir em renda variável;<br>
-        - Trabalhar de forma remota;<br>
-        - Ser capaz de me expressar através do desenho/pintura.<br>
-           
-    </P>
-
-</body>
-
-</html>
+ - Aluna do curso de Desenvolvimento de Sistemas da ETEC Camargo Aranha;
+ - Servidora pública federal;
+ - Mãe do Gabriel;
+ Meus objetivos:
+ - Criar um software do início ao fim;
+ - Viajar pelo mundo;
+ - Aprender a investir em renda variável;
+ - Trabalhar de forma remota;
+ - Ser capaz de me expressar através do desenho/pintura.
