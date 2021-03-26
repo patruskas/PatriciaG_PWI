@@ -1,9 +1,16 @@
 h1{
     text-align: center;
+    color: #15337d;
 }
 
 h2{
     text-align: center;
+    color: #15337d;
+}
+
+h3{
+    text-align: center;
+    color: #15337d;
 }
 
 table{
@@ -16,6 +23,7 @@ table{
 th{
     background-color: #799eed;
     padding: 10px;
+    color: #15337d;
 }
 
 td{
