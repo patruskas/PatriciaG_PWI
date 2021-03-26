@@ -1,6 +1,6 @@
 ### PatriciaG_PWI
 
-​		**PATRÍCIA: **
+​		**PATRÍCIA:**
 
  - Mãe do Gabriel;
 
